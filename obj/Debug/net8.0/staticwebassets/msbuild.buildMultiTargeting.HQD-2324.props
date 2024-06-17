@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HQD-2324.props" />
+</Project>
